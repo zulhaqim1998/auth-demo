@@ -1,0 +1,19 @@
+{
+  "name": "login-system",
+  "version": "1.0.0",
+  "description": "node js auth system demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zulfikri haqim",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.0.3",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.14.11"
+  }
+}
